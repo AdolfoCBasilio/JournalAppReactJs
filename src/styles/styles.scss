@@ -1,0 +1,15 @@
+// npm install node-sass
+
+// html, body{
+//     background-color: white;
+// }
+
+@import './base/settings';
+@import './base/base';
+//components
+@import './components/auth';
+@import './components/buttons';
+@import './components/links';
+@import './components/journal';
+@import './components/nothing';
+@import './components/notes';
